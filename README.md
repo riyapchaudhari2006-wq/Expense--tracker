@@ -9,6 +9,7 @@ Many students and young professionals lose track of small daily expenses (UPI pa
 This app lets you add expenses in seconds and automatically shows spending summaries and charts, so you can spot overspending early.
 
 ## Features
+![App Screenshot](screenshot.png)
 - Add expenses with date, category, amount, payment mode and note
 - Total spending summary
 - Category-wise pie chart
